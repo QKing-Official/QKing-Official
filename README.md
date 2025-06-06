@@ -34,10 +34,15 @@ I am a software engineer specializing in Python.<br>I am interested in open sour
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=QKing-Official&theme=react&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=QKing-Official&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=QKing-Official&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<a href="https://github.com/QKing-Official">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=QKing-Official&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark" />
+</a>
+<a href="https://github.com/QKing-Official">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs??username=QKing-Official&layout=donut&theme=github_dark&langs_count=8&card_width=320" />
+</a>
 
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=QKing-Official&theme=react&hide_border=false)<br/>
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=QKing-Official&theme=react&no-frame=false&no-bg=true&margin-w=4)
 
