@@ -6,7 +6,6 @@ I am a software engineer specializing in Python.<br>I am interested in open sour
   <img src="https://profile-counter.glitch.me/QKing-Official/count.svg?"  />
 </div>
 ![](https://komarev.com/ghpvc/?username=QKing-Official)
-###
 
 
 ## Where to find me?:
