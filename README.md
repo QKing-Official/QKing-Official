@@ -3,9 +3,6 @@ I am a software engineer specializing in Python.<br>I am interested in open sour
 
 ## Profile visits
 
-[![Sponsor](https://github.com/Host4You-cloud/Sponsor/blob/main/sponsor.png)](https://host4you.cloud)
-
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/QKing-Official/count.svg?"  />
 </div>
