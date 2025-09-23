@@ -56,6 +56,7 @@ I am a software engineer specializing in Python.<br>I am interested in open sour
 
 ---
 [![](https://visitcount.itsvg.in/api?id=QKing-Official&icon=2&color=1)](https://visitcount.itsvg.in)
-
+<!--
   ## YOU can help me by Donating!
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/qking) 
+--> 
